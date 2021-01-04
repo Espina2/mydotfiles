@@ -8,12 +8,15 @@ brew tap homebrew/cask-fonts
 
 PACKAGES=(
   git
+  zsh
+  bat
   curl
   docker-compose
   htop
   mysql-client
   nvm
   zsh-syntax-highlighting
+  fzf
 )
 
 APPLICATIONS=(
